@@ -1,0 +1,38 @@
+body {
+  background: #ffe2ac;
+  color: #000;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+header,section {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 90px;
+  color: darkgreen;
+}
+
+a {
+  color: darkgreen;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+th {
+  background-color: #85c200;
+  color: #6e0202;
+}
+
+th, td {
+  padding: 18px 63px;
+}
+
+td {
+  background-color: #b2e36c;
+  text-align: center;
+  font-weight: bold;
+  color: 	saddlebrown;
+}
