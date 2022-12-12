@@ -2,7 +2,7 @@ body {
   background: #ffe2ac;
   color: #000;
   padding: 25px;
-  font-family: sans-serif;
+  font-family: helvetica;
 }
 
 header,section {
@@ -13,6 +13,11 @@ header,section {
 h1 {
   font-size: 90px;
   color: darkgreen;
+}
+
+h2 {
+  font-size: 80 px; 
+  color: forestgreen;
 }
 
 a {
@@ -35,4 +40,12 @@ td {
   text-align: center;
   font-weight: bold;
   color: 	saddlebrown;
+}
+
+p, ul, ol, details, summart {
+  font-size: 30px;
+}
+
+p, ul, summary, details  {
+  color: darkblue;
 }
