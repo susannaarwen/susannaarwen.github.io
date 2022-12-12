@@ -49,3 +49,8 @@ p, ul, ol, details, summart {
 p, ul, summary, details  {
   color: darkblue;
 }
+
+.centralise {
+  display: grid;
+  place-items: center;
+}
